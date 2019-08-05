@@ -1,0 +1,17 @@
+2019-07-30 23:32:30,563 - logs… - INFO - resultPathC:\Users\Administrator\Desktop\selenium安装\interfaceTest\result\report.html
+2019-07-30 23:32:30,565 - logs… - INFO - caseListFileC:\Users\Administrator\Desktop\selenium安装\interfaceTest\caselist.txt
+2019-07-30 23:32:30,565 - logs… - INFO - caseList[]
+2019-07-30 23:33:15,807 - logs… - INFO - 发送邮件失败 (554, b'DT:SPM 163 smtp12,EMCowABnIeY5Y0BduP+tDQ--.38940S2 1564500795,please see http://mail.163.com/help/help_spam_16.htm?ip=120.229.77.233&hostid=smtp12&time=1564500795')
+2019-07-31 22:19:08,396 - logs… - INFO - resultPathC:\Users\Administrator\Desktop\selenium安装\interfaceTest\result\report.html
+2019-07-31 22:19:08,397 - logs… - INFO - caseListFileC:\Users\Administrator\Desktop\selenium安装\interfaceTest\caselist.txt
+2019-07-31 22:19:08,397 - logs… - INFO - caseList[]
+2019-07-31 22:19:08,841 - logs… - INFO - 请求结果: {'result': 'success'}
+2019-07-31 22:19:08,986 - logs… - INFO - 请求结果: {'result': 'error', 'errorCode': '10000-00004-00001', 'errorMsg': '登陆失败,用户名不存在'}
+2019-07-31 22:19:10,493 - logs… - INFO - 发送邮件成功！
+2019-07-31 22:28:37,559 - logs… - INFO - resultPathC:\Users\Administrator\Desktop\selenium安装\interfaceTest\result\report.html
+2019-07-31 22:28:37,559 - logs… - INFO - caseListFileC:\Users\Administrator\Desktop\selenium安装\interfaceTest\caselist.txt
+2019-07-31 22:28:37,559 - logs… - INFO - caseList[]
+2019-07-31 22:28:37,837 - logs… - INFO - 请求结果: {'result': 'success'}
+2019-07-31 22:28:37,881 - logs… - INFO - 请求结果: {'result': 'error', 'errorCode': '10000-00004-00001', 'errorMsg': '登陆失败,用户名不存在'}
+2019-07-31 22:28:37,882 - logs… - INFO - *********TEST END*********
+2019-07-31 22:28:38,472 - logs… - INFO - 发送邮件失败 (554, b'DT:SPM 163 smtp12,EMCowAD3XB6VpUFdymNRAA--.6887S2 1564583317,please see http://mail.163.com/help/help_spam_16.htm?ip=120.229.77.203&hostid=smtp12&time=1564583317')

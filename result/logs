@@ -1,0 +1,7 @@
+2019-08-05 22:35:03,898 - logs… - INFO - resultPathC:\Users\Administrator\Desktop\selenium安装\interfaceTest\result\report.html
+2019-08-05 22:35:03,900 - logs… - INFO - caseListFileC:\Users\Administrator\Desktop\selenium安装\interfaceTest\caselist.txt
+2019-08-05 22:35:03,901 - logs… - INFO - caseList[]
+2019-08-05 22:35:04,413 - logs… - INFO - 请求结果: {'result': 'success'}
+2019-08-05 22:35:04,464 - logs… - INFO - 请求结果: {'result': 'error', 'errorCode': '10000-00004-00001', 'errorMsg': '登陆失败,用户名不存在'}
+2019-08-05 22:35:04,465 - logs… - INFO - *********TEST END*********
+2019-08-05 22:35:06,047 - logs… - INFO - 发送邮件成功！
